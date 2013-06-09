@@ -24,7 +24,8 @@ class RenderManager {
             }
         }
 
-        int* getScsize() {return scsize;};
+        int* getScsize() {                            //nakonec to takle nechávám
+            return scsize;};
 
 
     private:
